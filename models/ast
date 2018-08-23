@@ -1,0 +1,5 @@
+[['plainText', 'You are in a vast desert'],
+ ['paragraph'],
+ ['alternative', 1, 'Head north'],
+ ['alternative', 2, 'Head south'],
+ ['alternative', 0, 'Hang around']]
